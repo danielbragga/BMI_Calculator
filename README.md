@@ -1,6 +1,6 @@
 # Product Card
 
-### Desktop Design
+### Design
 
 ![Design preview for the Project](./public/desktop.png)
 
