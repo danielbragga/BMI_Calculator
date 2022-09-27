@@ -1,4 +1,4 @@
-# Product Card
+# BMI Calculator
 
 ### Design
 
